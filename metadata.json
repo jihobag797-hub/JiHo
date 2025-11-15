@@ -1,0 +1,5 @@
+{
+  "name": "Game Arcade",
+  "description": "A collection of classic games. Play Gomoku, Baduk, Uno, and Chess.",
+  "requestFramePermissions": []
+}
